@@ -80,7 +80,7 @@ PortfolioAPI/
 ├── .github/workflows/
 │   └── ci.yml                                        # CI/CD pipeline
 ├── pom.xml                                           # Dependencies
-└── README.md                                         # You’re here!
+└── README.md                                         
 ```
 
 ---
