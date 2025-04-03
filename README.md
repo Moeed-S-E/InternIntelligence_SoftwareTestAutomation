@@ -106,3 +106,5 @@ This project includes a **GitHub Actions workflow** (`.github/workflows/ci.yml`)
 - Prepares the app for deployment (you can add more steps for that!).
 
 ---
+## Note:
+This README is Ai generted.
